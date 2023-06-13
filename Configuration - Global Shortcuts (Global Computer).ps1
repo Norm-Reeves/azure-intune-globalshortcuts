@@ -1,4 +1,4 @@
-#Step 1 - Make sure C:/Temp exists (will put in .ico files in there)
+#Step 1 - Make sure C:/Temp exists (will put .ico files in there)
 if (!(Test-Path -Path 'C:\Temp')){
     New-Item -ItemType Directory -Force -Path c:\Temp
 }
