@@ -6,4 +6,4 @@ Change Log:
 ============
 1.0:
 
-  • Created base script with only UKG icon pointing to normreeves2u.ukg.net.
+  • Created base script with UKG icon pointing to normreeves2u.ukg.net.
